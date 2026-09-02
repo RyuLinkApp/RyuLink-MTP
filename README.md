@@ -1,5 +1,7 @@
 # RyuLink MTP
 
+**简体中文** | [English](README_EN.md)
+
 **龙联 MTP（RyuLink MTP）** 是一款面向 **Windows** 的 Nintendo Switch 桌面管理工具，主要用于通过 **DBI MTP** 管理本地游戏资源、查看 Switch 存储信息，并完成安装队列与 NSP/XCI 整合处理。
 
 > 当前仅支持 Windows。项目仍在持续开发中，部分功能尚未开放或仍需进一步稳定。
