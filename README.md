@@ -4,6 +4,16 @@
 
 > 当前仅支持 Windows。项目仍在持续开发中，部分功能尚未开放或仍需进一步稳定。
 
+## 界面预览
+
+### MTP 安装
+
+![龙联 MTP - MTP 安装](docs/images/mtp-install.webp)
+
+### 游戏资源管理
+
+![龙联 MTP - 游戏资源管理](docs/images/game-library.webp)
+
 ## 主要功能
 
 ### 游戏资源库
